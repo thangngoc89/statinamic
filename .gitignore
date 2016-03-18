@@ -10,7 +10,7 @@ npm-debug.log
 coverage
 
 # build
-lib
+# lib
 
 # some tests output some files
 src/content-loader/__tests__/output/
